@@ -4,5 +4,8 @@ app:
   # scenario. If the value is set to an empty string ("") the application
   # is not deployed.
   version: "bc4f73c7-c41d-4ea1-b786-51986cf1836d"
+
+  endpoints: public
   
+
   
